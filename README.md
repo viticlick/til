@@ -17,3 +17,7 @@ A collection of useful, concise tips on things I learnt
 
 ## Cheatsheets
 - [awk](https://www.shortcutfoo.com/app/dojos/awk/cheatsheet)
+
+## Clean Code Concepts
+- [Java](https://github.com/keyvanakbary/book-notes/blob/master/effective-java.md) by keyvankbary
+- [JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) by ryanmcdermott
