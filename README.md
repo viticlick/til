@@ -21,3 +21,7 @@ A collection of useful, concise tips on things I learnt
 ## Clean Code Concepts
 - [Java](https://github.com/keyvanakbary/book-notes/blob/master/effective-java.md) by keyvankbary
 - [JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) by ryanmcdermott
+
+## Git
+- [ Replace all codebase with other branch ](git/merge-ours-strategy.md)
+
