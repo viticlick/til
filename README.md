@@ -16,7 +16,8 @@ A collection of useful, concise tips on things I learnt
 - [ Run jshell with docker ](docker/jdk/jshel.md)
 
 ## Cheatsheets
-- [awk](https://www.shortcutfoo.com/app/dojos/awk/cheatsheet)
+- [awk](https://www.shortcutfoo.com/app/dojos/awk/cheatsheet) 
+- [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Clean Code Concepts
 - [Java](https://github.com/keyvanakbary/book-notes/blob/master/effective-java.md) by keyvankbary
