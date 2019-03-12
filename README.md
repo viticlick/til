@@ -25,3 +25,5 @@ A collection of useful, concise tips on things I learnt
 ## Git
 - [ Replace all codebase with other branch ](git/merge-ours-strategy.md)
 
+## Bash Tools
+- [pup](https://github.com/ericchiang/pup) a html parser
