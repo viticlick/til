@@ -27,7 +27,9 @@ A collection of useful, concise tips on things I learnt
 - [ Replace all codebase with other branch ](git/merge-ours-strategy.md)
 
 ## Bash Tools
-- [pup](https://github.com/ericchiang/pup) a html parser
-- [jq](https://stedolan.github.io/jq/) a json parser
-- [tmux](https://github.com/tmux/tmux/wiki) a terminal multiplexer
+| tool | description | link |
+| ---- | ----------- | ---- |
+| pup  | HTML parser | [link](https://github.com/ericchiang/pup)|
+| jq   | JSON parser | [link](https://stedolan.github.io/jq/)| 
+| tmux | Terminal multiplexer | [link](https://github.com/tmux/tmux/wiki)|
 
