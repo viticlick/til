@@ -28,3 +28,5 @@ A collection of useful, concise tips on things I learnt
 ## Bash Tools
 - [pup](https://github.com/ericchiang/pup) a html parser
 - [jq](https://stedolan.github.io/jq/) a json parser
+- [tmux](https://github.com/tmux/tmux/wiki) a terminal multiplexer
+
