@@ -32,4 +32,5 @@ A collection of useful, concise tips on things I learnt
 | pup  | HTML parser | [link](https://github.com/ericchiang/pup)|
 | jq   | JSON parser | [link](https://stedolan.github.io/jq/)| 
 | tmux | Terminal multiplexer | [link](https://github.com/tmux/tmux/wiki)|
+| tig | Text mode interface for Git | [link](https://github.com/jonas/tig) |
 
