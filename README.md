@@ -33,4 +33,11 @@ A collection of useful, concise tips on things I learnt
 | jq   | JSON parser | [link](https://stedolan.github.io/jq/)| 
 | tmux | Terminal multiplexer | [link](https://github.com/tmux/tmux/wiki)|
 | tig | Text mode interface for Git | [link](https://github.com/jonas/tig) |
+| peco | Filter content | [link](https://github.com/peco/peco) |
+| youtube-dl | Video downloader | [link](https://ytdl-org.github.io/youtube-dl/index.html) |
 
+## Mac tools
+| tool | description | link |
+| ---- | ----------- | ---- |
+| gifski | Create custom gifs | [link](https://sindresorhus.com/gifski) |
+| spectacle | Move windows arround | [link](https://www.spectacleapp.com/) |
