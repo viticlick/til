@@ -35,6 +35,7 @@ A collection of useful, concise tips on things I learnt
 | tig | Text mode interface for Git | [link](https://github.com/jonas/tig) |
 | peco | Filter content | [link](https://github.com/peco/peco) |
 | youtube-dl | Video downloader | [link](https://ytdl-org.github.io/youtube-dl/index.html) |
+| puppeteers | Web scraper (node library) | [link](https://www.npmjs.com/package/puppeteer) |
 
 ## Mac tools
 | tool | description | link |
